@@ -27,8 +27,8 @@ A simple and interactive web-based currency converter built using HTML, CSS, and
 
 ## 📁 Project Structure
  currency-converter
-─ index.html         # Main HTML page
-─ style.css          # App styling
-─ script.js          # JavaScript for functionality and API logic
-─ README.md          # Project documentation
-─ countryList.js     # Currency code to country code mapping
+- index.html         # Main HTML page
+- style.css          # App styling
+- script.js          # JavaScript for functionality and API logic
+- README.md          # Project documentation
+- countryList.js     # Currency code to country code mapping
